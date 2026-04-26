@@ -11,6 +11,7 @@
      2] They performs the task of sheilding the backend servers , providing security and load balancing across them.
      3] Nginx can be used as reverse proxy.
      4] Here request is originated from client in the public network (Internet).
+    777
 
 
 # SSL/TLS termination
